@@ -1,0 +1,19 @@
+.parent p{
+            font-family: cursive;
+            letter-spacing: 5px;
+            text-transform: capitalize;
+            text-decoration: line-through ;
+        }
+        p:hover{
+            color: aqua;
+            background-color: crimson;
+        }
+        .border{
+            border: 2px solid burlywood;
+            /* border-border-bottom-style: dotted; */
+            padding-left: 10px;
+            padding-bottom: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+         
+        }
