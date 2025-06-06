@@ -1,0 +1,21 @@
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    }
+.headlink ul{
+     color:black;
+     list-style: none;
+     display: flex;
+     justify-content: right;
+     gap: 30px;
+    }    
+   li,h1,ul{
+    display: inline;
+    }
+   .grid-container{
+     display: flex;
+    grid-template: 150;
+   }
+    .grid-container div{
+    border: 2px solid black;
+    grid-template: 50px ;
+    }
